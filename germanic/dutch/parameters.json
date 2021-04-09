@@ -1,0 +1,22 @@
+{
+    "language": "Dutch",
+    "number_mapping": [
+        "nul",
+        "een",
+        "twee",
+        "drie",
+        "vier",
+        "vijf",
+        "zes",
+        "zeven",
+        "acht",
+        "negen",
+        "tien"
+    ],
+    "tags": [
+        "count",
+        "counting",
+        "dutch",
+        "germanic"
+    ]
+}

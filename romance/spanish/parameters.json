@@ -1,0 +1,22 @@
+{
+    "language": "Spanish",
+    "number_mapping": [
+        "cero",
+        "uno",
+        "dos",
+        "tres",
+        "cuatro",
+        "cinco",
+        "seis",
+        "siete",
+        "ocho",
+        "nueve",
+        "diez"
+    ],
+    "tags": [ 
+        "count",
+        "counting",
+        "spanish",
+        "romance"
+    ]
+}

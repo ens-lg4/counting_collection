@@ -1,0 +1,22 @@
+{
+    "language": "English",
+    "number_mapping": [
+        "zero",
+        "one",
+        "two",
+        "three",
+        "four",
+        "five",
+        "six",
+        "seven",
+        "eight",
+        "nine",
+        "ten"
+    ],
+    "tags": [
+        "count",
+        "counting",
+        "english",
+        "germanic"
+    ]
+}

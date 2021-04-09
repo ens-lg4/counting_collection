@@ -1,0 +1,22 @@
+{
+    "language": "French",
+    "number_mapping": [
+        "zéro",
+        "un",
+        "deux",
+        "trois",
+        "quatre",
+        "cinq",
+        "six",
+        "sept",
+        "huit",
+        "neuf",
+        "dix"
+    ],
+    "tags": [ 
+        "count",
+        "counting",
+        "french",
+        "romance"
+    ]
+}
