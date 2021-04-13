@@ -2,32 +2,12 @@
     "*parent_entry":  [["core_collection"]],
     "*parent_entry_2":  [["byname", ["git"]]],
     "contained_entries": {
-        "dutch":        "germanic/dutch",
         "Dutch":        "germanic/dutch",
-        "Nederlands":   "germanic/dutch",
-
-        "english":      "germanic/english",
         "English":      "germanic/english",
-
-        "german":       "germanic/german",
         "German":       "germanic/german",
-        "Deutsch":      "germanic/german",
 
-        "french":       "romance/french",
         "French":       "romance/french",
-        "francais":     "romance/french",
-        "Francais":     "romance/french",
-        "français":     "romance/french",
-        "Français":     "romance/french",
-
-        "spanish":      "romance/spanish",
-        "Spanish":      "romance/spanish",
-        "espanol":      "romance/spanish",
-        "Espanol":      "romance/spanish",
-        "español":      "romance/spanish",
-        "Español":      "romance/spanish",
-        "castellano":   "romance/spanish",
-        "Castellano":   "romance/spanish"
+        "Spanish":      "romance/spanish"
     },
     "tags": [ "collection" ]
 }
