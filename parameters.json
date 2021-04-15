@@ -1,6 +1,6 @@
 {
-    "*parent_entry":  [["core_collection"]],
-    "*parent_entry_2":  [["byname", ["git"]]],
+    "parent_entry:core_collection":  [],
+    "parent_entry_2:byname":  ["git"],
     "contained_entries": {
         "Dutch":        "germanic/dutch",
         "English":      "germanic/english",
