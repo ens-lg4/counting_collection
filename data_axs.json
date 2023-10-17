@@ -11,5 +11,6 @@
         "French":       "romance/french",
         "Spanish":      "romance/spanish"
     },
-    "tags": [ "collection" ]
+    "repo_name": "counting_collection",
+    "tags": [ "git_repo", "collection" ]
 }
